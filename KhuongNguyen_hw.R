@@ -7,3 +7,5 @@ mean_value
 sd_value <- sd(random_numbers)
 sd_value
 
+print(paste("The mean is", mean_value, "and the Standard Deviation is", sd_value))
+
